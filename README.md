@@ -1,12 +1,10 @@
-Here's an enhanced README.md with code examples included for clarity:
 
----
 
 # Heart Disease Risk Analysis
 
 ## Project Overview
 
-As a data scientist at a healthcare company, my task is to analyze a dataset of medical records to identify patients at high risk of developing heart disease. This project involves using unsupervised learning techniques to cluster patients based on their medical history and identifying risk factors associated with heart disease.
+This Project is to analyze a dataset of medical records to identify patients at high risk of developing heart disease. This project involves using unsupervised learning techniques to cluster patients based on their medical history and identifying risk factors associated with heart disease.
 
 ## Dataset
 
